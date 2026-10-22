@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.rom
+!examples/example_tool.rom
+*.log
+records/
